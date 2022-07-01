@@ -6,7 +6,8 @@
 
 body {
     background: hsl(212, 45%, 89%);
-    font-family: 'Outfit', sans-serif;    
+    font-family: 'Outfit', sans-serif; 
+    width: 100vw;   
     height: 100vh;
     display: flex;
     flex-direction: column;
